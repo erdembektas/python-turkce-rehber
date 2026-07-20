@@ -12,7 +12,7 @@ Bu proje resmi dökümantasyonun çevirisi niteliğinde değildir. Resmi döküm
 
 İçindekiler : 
 
-[] 1 -  
+[] 1 -  Neden Python ?
 [] 2 -  
 [] 3 -  
 [] 4 -  
