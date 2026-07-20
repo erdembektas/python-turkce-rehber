@@ -1,1 +1,22 @@
+Teknoloji çağında yaşayan insanlar olarak gündelik hayatlarımızda bilgisayarları çok sık kullanıyoruz. Bu kullanımlarımız arasında birçok metin dosyası içerisinde belirli bir ifadeyi aramak, dosya isimlerini değiştirmek, anlık hesaplamalar yapmak gibi otomatikleştirmek isteyebileceğimiz bazı işler vardır.  
+
+Eğer bilgisayarınızı sadece bu gibi temel işler için kullanmıyor ve bir profesyonel yazılım geliştiricisiyseniz, çeşitli diller ve kütüphaneler ile çalışmanız, uygulamalar geliştirmeniz gerekebilir ancak bu geliştirmeleriniz sırasında klasik Kodlama - Derleme - Test Etme - Yeniden Derleme adımlarının yavaş olduğunu fark etmiş olabilirsiniz.  
+
+Python tüm bu sebeplerden ve daha fazlasından dolayı tam da size göre bir dil.  
+
+Elbette bu gibi işleri gerçekleştirmek için başka seçenekler var örneğin tüm bu işleri C,C++ ve Java kullanarak yapabilirsiniz ancak bu diller ile çalışırken programın taslak aşamasına dahi gelebilmek daha fazla geliştirme süresi gerektirebilir. Python ise kullanımı daha kolay bir dildir ve aynı işleri daha kısa sürelerde tamamlamanıza olanak sağlar.  
+
+Kullanımının kolay olmasının yanında diğer seçeneklerden daha fazla yardımcı yapı sunması ve büyük ölçekli programların geliştirilmesini destekler. Daha kapsamlı hata yönetimi mekanizmaları barındırır. Ayrıca yüksek seviyeli bir dil (high-level language) olmasından kaynaklı olarak yüksek seviyeli veri yapılarını hazır olarak sunar.  
+
+Python, programınızı modüllere ayırmanıza olanak tanır. Bu modüller daha sonra geliştirdiğiniz farklı projelerde tekrar kullanılabilir yapıda olurlar.  
+
+Python yorumlanan (interpreteed) bir programlama dilidir. Bu sayede program geliştirirken, geliştirme süreci kısalır. Kodun çalıştırılabilmesi için derleme işlemi satır satır yapılır.   
+
+Python, programların kısa ve okunabilir şekilde yazılmasına olanak tanır. Aynı işi yapan C,C++ veya Java programlarına kıyasla daha az satırda kod tamamlanabilir. Başlıca sebepler şu şekildedir: 
+ - Yüksek seviyeli veri tipleri, karmaşık işlemleri tek bir ifade (statement) ile gerçekleştirebilmemizi sağlar.  
+ - Kod blokları, açılış ve kapanış süslü parantezleri { } yerine girintileme (indentation) ile belirlenir.  
+ - Değişkenler veya fonksiyon parametreleri için önceden tanımlama (decleration) yapmak gerekmez.  
+
+
+
 
